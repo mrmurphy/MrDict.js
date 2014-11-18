@@ -1,0 +1,11 @@
+# MrDict.js
+
+This is a small, experimental implementation of a dictionary data structure
+in Javascript. The hashing function is based on an FNV hash http://bit.ly/1pTlwXH
+
+# Running the tests
+
+```
+npm install
+npm test
+```

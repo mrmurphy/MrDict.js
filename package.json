@@ -1,0 +1,15 @@
+{
+  "name": "mrdict",
+  "version": "0.0.1",
+  "description": "An experimental implementation of a dictionary in JS",
+  "main": "lib/mrdict.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --watch **/*_spec.js"
+  },
+  "author": "Murphy Randle, murphyrandle@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  }
+}
